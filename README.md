@@ -161,10 +161,11 @@
     alt="Figma"
   />
 </p>
-<h2 align="center" style="margin-top: 2%">
+
+
+<h2 align="center" style="margin-top: 5%";>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF79C6&center=true&width=600&lines=GitHub+Stats+%26+Contributions" />
 </h2>
-
 
 <p align="center" style="margin-top: 0%">
 
@@ -175,7 +176,6 @@
     width="55%"
     style="border-radius: 16px; margin-bottom: 1%;"
   />
-
   <br />
 
   <!-- GitHub Stats -->
@@ -185,7 +185,6 @@
     width="65%"
     style="border-radius: 16px; margin-bottom: 1%;"
   />
-  
   <br />
 
   <!-- GitHub Streak -->
