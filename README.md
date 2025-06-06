@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm vexlore</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#00adb5;">vexlore</span></h1>
 <h3 align="center">🚀 Flutter Developer | 💻 C++ & Linux Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vexlore-code&label=Profile%20views&color=0e75b6&style=flat" alt="vexlore-code" />
+  <img src="https://komarev.com/ghpvc/?username=vexlore-code&label=Profile%20views&color=brightgreen&style=flat-square" alt="profile views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vexlore-code&theme=onedark&no-frame=true&margin-w=5" alt="vexlore-code trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vexlore-code&theme=gruvbox&margin-w=10&no-frame=true" alt="trophies" />
   </a>
 </p>
 
