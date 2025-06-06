@@ -167,34 +167,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF79C6&center=true&width=600&lines=GitHub+Stats+%26+Contributions" />
 </h2>
 
-<p align="center" style="margin-top: 0%">
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexlore-code&layout=compact&theme=radical"
-    alt="Top Languages"
-    width="55%"
-    style="border-radius: 16px; margin-bottom: 1%;"
-  />
-  <br />
-
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vexlore-code&show_icons=true&locale=en&theme=radical"
-    alt="GitHub Stats"
-    width="65%"
-    style="border-radius: 16px; margin-bottom: 1%;"
-  />
-  <br />
-
-  <!-- GitHub Streak -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vexlore-code&theme=radical"
-    alt="GitHub Streak"
-    width="75%"
-    style="border-radius: 16px; margin-bottom: 1%;"
-  />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexlore-code&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 16px;" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vexlore-code&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="border-radius: 16px;" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vexlore-code&theme=radical" alt="GitHub Streak" style="border-radius: 16px;" />
 </p>
 
 
