@@ -77,7 +77,7 @@
 
 ### 🚧 Featured Projects (Coming Soon)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FAD000&center=true&width=500&lines=Building+Cool+Things...;Stay+tuned+for+updates!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FAD000&center=true&width=600&lines=Building+Cool+Things...;Stay+tuned+for+updates!" />
 </p>
 
 ---
@@ -98,7 +98,7 @@ jubiofficial.dev@gmail.com
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00ADB5&center=true&width=435&lines=Flutter+Dev+%7C+C%2B%2B+Craftsman+%7C+Linux+Lover" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00ADB5&center=true&width=700&lines=Flutter+Dev+%7C+C%2B%2B+Craftsman+%7C+Linux+Lover" />
 </p>
 
 <p align="center"><strong>✨ Keep building. Keep learning. Keep sharing. ✨</strong></p>
