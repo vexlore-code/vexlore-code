@@ -13,7 +13,7 @@
 
 ---
 
-### 💡 About Me <img src="https://i.imgur.com/1v8V1Xw.jpeg" width="20" style="vertical-align:middle; margin-left: 5px;" />
+### 💡 About Me <img src="https://i.imgur.com/QwUcmEi.png" width="25" style="vertical-align:middle; margin-left: 0px;" />
 
 <p>
   I'm <strong>Jubayer Hasan Munna</strong>, better known online as <strong>vexlore</strong>, a cross-platform developer passionate about building delightful Flutter applications. With a foundation in <strong>C++</strong> and a deep love for <strong>Linux</strong>, I explore the harmony of performance, design, and scalability. I'm all about crafting clean, efficient code and collaborating through open-source.
@@ -32,14 +32,14 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://codeforces.com/profile/vexlore"><img src="https://i.imgur.com/5M5pL9o.png" alt="Codeforces" width="30" /></a>
-  <a href="https://atcoder.jp/users/vexlore"><img src="https://i.imgur.com/BYMsYew.png" alt="AtCoder" width="30" /></a>
-  <a href="https://www.topcoder.com/members/vexlore"><img src="https://i.imgur.com/FYHowTd.png" alt="Topcoder" width="30" /></a>
-  <a href="https://www.leetcode.com/vexlore"><img src="https://i.imgur.com/Cyqmzma.png" alt="LeetCode" width="30" /></a>
-  <a href="https://www.hackerrank.com/vexlore"><img src="https://i.imgur.com/e4EMPRk.png" alt="HackerRank" width="30" /></a>
-  <a href="https://www.hackerearth.com/vexlore"><img src="https://i.imgur.com/EIrXEqV.png" alt="HackerEarth" width="30" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/vexlore"><img src="https://i.imgur.com/uatxg5v.png" alt="GeeksforGeeks" width="30" /></a>
-  <a href="https://www.codechef.com/users/vexlore"><img src="https://i.imgur.com/yw0pRp0.png" alt="CodeChef" width="30" /></a>
+  <a href="https://codeforces.com/profile/vexlore"><img src="https://i.imgur.com/vhgFHDH.png" alt="Codeforces" width="30" /></a>
+  <a href="https://atcoder.jp/users/vexlore"><img src="https://i.imgur.com/EFoIQvN.png" alt="AtCoder" width="30" /></a>
+  <a href="https://www.topcoder.com/members/vexlore"><img src="https://i.imgur.com/PnXp6uy.png" alt="Topcoder" width="30" /></a>
+  <a href="https://www.leetcode.com/vexlore"><img src="https://i.imgur.com/MnmhMLF.png" alt="LeetCode" width="30" /></a>
+  <a href="https://www.hackerrank.com/vexlore"><img src="https://i.imgur.com/GBpParY.png" alt="HackerRank" width="30" /></a>
+  <a href="https://www.hackerearth.com/vexlore"><img src="https://i.imgur.com/pjxc5v7.png" alt="HackerEarth" width="30" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/vexlore"><img src="https://i.imgur.com/llVAsBO.png" alt="GeeksforGeeks" width="30" /></a>
+  <a href="https://www.codechef.com/users/vexlore"><img src="https://i.imgur.com/DMEmXlI.png" alt="CodeChef" width="30" /></a>
 </p>
 
 ---
@@ -86,7 +86,7 @@
 
 ```
 > whoami
-vexlore-code
+vexlore
 
 > skills --list
 C++, Flutter, Dart, Linux, Git, Python, Blender
