@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00adb5;">vexlore</span></h1>
-<h3 align="center">🚀 Flutter Developer | 💻 C++ & Linux Enthusiast</h3>
+<h1 align="center">✨ Hi 👋, I'm <span style="color:#00adb5;">Vexlore</span> ✨</h1>
+<h3 align="center" style="color:#f2f2f2; background:#222; padding:8px 0; border-radius:8px;">🚀 Flutter Developer | 💻 C++ & Linux Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vexlore-code&label=Profile%20views&color=brightgreen&style=flat-square" alt="profile views" />
@@ -7,25 +7,24 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vexlore-code&theme=gruvbox&margin-w=10&no-frame=true" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vexlore-code&theme=onedark&margin-w=10&no-frame=true&column=7" alt="trophies" />
   </a>
 </p>
 
 ---
 
-### 💡 About Me
+<h3>💡 About Me <img src="https://i.imgur.com/1v8V1Xw.jpeg" width="18" style="vertical-align: middle; border-radius: 4px; margin-left: 4px;" /></h3>
 
 <p>
-  I'm Jubayer Hasan Munna, better known online as vexlore, a committed cross-platform developer with a focus on creating aesthetically pleasing and dependable Flutter applications. Having a background in C++ and a deep enthusiasm for Linux-based development, I investigate the relationship between performance, design, and scalability. I'm a big supporter of writing clear, maintainable code and open-source collaboration.
+  I'm <strong>Jubayer Hasan Munna</strong>, better known online as <strong>vexlore</strong>, a committed cross-platform developer with a focus on creating aesthetically pleasing and dependable Flutter applications. Having a background in <strong>C++</strong> and a deep enthusiasm for <strong>Linux-based</strong> development, I investigate the relationship between performance, design, and scalability. I'm a big supporter of writing clean, maintainable code and open-source collaboration.
 </p>
-
 
 <ul>
   <li>🔭 <strong>Currently working on:</strong> Flutter-powered cross-platform mobile apps with optimized performance.</li>
   <li>🌱 <strong>Expanding skills in:</strong> DevOps workflows, containerization (Docker), Java backends, and advanced C++ STL.</li>
   <li>🤝 <strong>Open to collaborate on:</strong> Modern UI design systems, Flutter packages, and Linux scripting tools.</li>
   <li>💬 <strong>Tech topics I enjoy discussing:</strong> C++ memory management, Linux terminal tools, Flutter architecture patterns (e.g., BLoC, Riverpod).</li>
-  <li>📫 <strong>Email:</strong> <a href="mailto:jubiofficial.dev@gmail.com">jubiofficial.dev@gmail.com</a></li>
+  <li>📧 <strong>Email:</strong> <a href="mailto:jubiofficial.dev@gmail.com">jubiofficial.dev@gmail.com</a></li>
   <li>🐙 <strong>GitHub:</strong> <a href="https://github.com/vexlore-code">github.com/vexlore-code</a></li>
 </ul>
 
@@ -33,30 +32,14 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://codeforces.com/profile/vexlore" target="blank">
-    <img src="https://i.imgur.com/5M5pL9o.png" alt="Codeforces" width="30" />
-  </a>
-  <a href="https://atcoder.jp/users/vexlore" target="blank">
-    <img src="https://i.imgur.com/BYMsYew.png" alt="AtCoder" width="30" />
-  </a>
-  <a href="https://www.topcoder.com/members/vexlore" target="blank">
-    <img src="https://i.imgur.com/FYHowTd.png" alt="Topcoder" width="30" />
-  </a>
-  <a href="https://www.leetcode.com/vexlore" target="blank">
-    <img src="https://i.imgur.com/Cyqmzma.png" alt="LeetCode" width="30" />
-  </a>
-  <a href="https://www.hackerrank.com/vexlore" target="blank">
-    <img src="https://i.imgur.com/e4EMPRk.png" alt="HackerRank" width="30" />
-  </a>
-  <a href="https://www.hackerearth.com/vexlore" target="blank">
-    <img src="https://i.imgur.com/EIrXEqV.png" alt="HackerEarth" width="30" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/vexlore" target="blank">
-    <img src="https://i.imgur.com/uatxg5v.png" alt="GeeksforGeeks" width="30" />
-  </a>
-  <a href="https://www.codechef.com/users/vexlore" target="blank">
-    <img src="https://i.imgur.com/yw0pRp0.png" alt="CodeChef" width="30" />
-  </a>
+  <a href="https://codeforces.com/profile/vexlore" target="blank"><img src="https://i.imgur.com/5M5pL9o.png" alt="Codeforces" width="28" /></a>
+  <a href="https://atcoder.jp/users/vexlore" target="blank"><img src="https://i.imgur.com/BYMsYew.png" alt="AtCoder" width="28" /></a>
+  <a href="https://profiles.topcoder.com/vexlore" target="blank"><img src="https://i.imgur.com/FYHowTd.png" alt="Topcoder" width="28" /></a>
+  <a href="https://www.leetcode.com/profile/vexlore" target="blank"><img src="https://i.imgur.com/Cyqmzma.png" alt="LeetCode" width="28" /></a>
+  <a href="https://www.hackerrank.com/profile/vexlore" target="blank"><img src="https://i.imgur.com/e4EMPRk.png" alt="HackerRank" width="28" /></a>
+  <a href="https://www.hackerearth.com/@vexlore/" target="blank"><img src="https://i.imgur.com/EIrXEqV.png" alt="HackerEarth" width="28" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/vexlore" target="blank"><img src="https://i.imgur.com/uatxg5v.png" alt="GeeksforGeeks" width="28" /></a>
+  <a href="https://www.codechef.com/users/vexlore" target="blank"><img src="https://i.imgur.com/yw0pRp0.png" alt="CodeChef" width="28" /></a>
 </p>
 
 ---
@@ -83,13 +66,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vexlore-code&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vexlore-code&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vexlore-code&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vexlore-code&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vexlore-code&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vexlore-code&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-<p align="center">✨ Keep building. Keep learning. Keep sharing. ✨</p>
+<p align="center">✨ <strong>Keep building. Keep learning. Keep sharing.</strong> ✨</p>
