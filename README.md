@@ -19,10 +19,6 @@
   I'm Jubayer Hasan Munna, better known online as vexlore, a committed cross-platform developer with a focus on creating aesthetically pleasing and dependable Flutter applications. Having a background in C++ and a deep enthusiasm for Linux-based development, I investigate the relationship between performance, design, and scalability. I'm a big supporter of writing clear, maintainable code and open-source collaboration.
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/1v8V1Xw.jpeg" alt="Linux Penguin Vibe" width="300" style="border-radius: 12px;" />
-</p>
-
 
 <ul>
   <li>🔭 <strong>Currently working on:</strong> Flutter-powered cross-platform mobile apps with optimized performance.</li>
