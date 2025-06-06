@@ -161,70 +161,51 @@
     alt="Figma"
   />
 </p>
---- ### 📊 GitHub Stats & Contributions
+<h2 align="center" style="margin-top: 2%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF79C6&center=true&width=600&lines=GitHub+Stats+%26+Contributions" />
+</h2>
 
-<p align="center" style="margin-top: 2%">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vexlore-code&theme=radical"
-    alt="Repo Language Pie"
-    width="25%"
-    style="border-radius: 16px;"
-  />
-</br>
+
+<p align="center" style="margin-top: 0%">
+
+  <!-- Top Languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexlore-code&layout=compact&theme=radical"
     alt="Top Languages"
     width="55%"
-    style="border-radius: 16px;"
+    style="border-radius: 16px; margin-bottom: 1%;"
   />
-  
-  
-</div>
 
   <br />
+
+  <!-- GitHub Stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=vexlore-code&show_icons=true&locale=en&theme=radical"
     alt="GitHub Stats"
     width="65%"
     style="border-radius: 16px; margin-bottom: 1%;"
   />
+  
   <br />
+
+  <!-- GitHub Streak -->
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=vexlore-code&theme=radical"
     alt="GitHub Streak"
     width="75%"
     style="border-radius: 16px; margin-bottom: 1%;"
   />
-  <br />
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=vexlore-code&limit=5&theme=radical&combine_all_yearly_contributions=true"
-    alt="Contributor Stats"
-    width="75%"
-    style="border-radius: 16px; margin-bottom: 1%;"
-  />
-  <br />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vexlore-code&theme=github-dark"
-    alt="GitHub Activity Graph"
-    width="75%"
-    style="border-radius: 16px; margin-bottom: 1%;"
-  />
-  <br />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vexlore-code&theme=radical"
-    alt="GitHub Summary Card"
-    width="85%"
-    style="border-radius: 16px; margin-bottom: 2%;"
-  />
+
 </p>
 
 
 --- ### 🚧 Featured Projects (Coming Soon)
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FAD000&center=true&width=600&lines=Building+Cool+Things...;Stay+tuned+for+updates!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF79C6&center=true&width=600&lines=Building+Cool+Things...;Stay+tuned+for+updates!"
   />
 </p>
+
 
 --- ### 🖥️ Terminal Style Preview ``` > whoami vexlore-code > skills --list C++,
 Flutter, Dart, Linux, Git, Python, Blender > contact --email
