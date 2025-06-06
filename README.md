@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00adb5;">Jubayer Hasan Munna</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#00adb5;">Vexlore</span></h1>
 <h3 align="center">🚀 Flutter Developer | 💻 C++ & Linux Enthusiast</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-### 💡 About Me <img src="https://i.imgur.com/UzdEw5i.png" width="25" style="position: relative; top: 10px; margin-left: 4px;" />
+### 💡 About Me <img src="https://i.imgur.com/QwUcmEi.png" width="18" style="vertical-align:middle; margin-left: 4px; position: relative; top: 3px;" />
 
 <p>
   I'm <strong>Jubayer Hasan Munna</strong>, better known online as <strong>vexlore</strong>, a cross-platform developer passionate about building delightful Flutter applications. With a foundation in <strong>C++</strong> and a deep love for <strong>Linux</strong>, I explore the harmony of performance, design, and scalability. I'm all about crafting clean, efficient code and collaborating through open-source.
@@ -66,11 +66,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexlore-code&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexlore-code&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 16px;" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vexlore-code&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vexlore-code&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="border-radius: 16px;" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vexlore-code&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vexlore-code&theme=radical" alt="GitHub Streak" style="border-radius: 16px;" />
 </p>
 
 ---
