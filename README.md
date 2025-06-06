@@ -13,14 +13,20 @@
 
 ---
 
-### 💡 About Me
+### 💡 About Me <img src="https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/main/icons/linux.png?raw=true" width="25" alt="Penguin" />
 
-- 🔭 I’m currently working on **Cross-platform mobile apps with Flutter**
-- 🌱 Learning **DevOps, Java, and advanced C++ STL**
-- 👯 Looking to collaborate on **Open-source Flutter UI kits & Linux tools**
-- 💬 Ask me about **C++, Flutter, Ubuntu tools, and Bash scripting**
-- 📫 Reach me at: **[jubiofficial.dev@gmail.com](mailto:jubiofficial.dev@gmail.com)**
-- 🐙 GitHub: [vexlore-code](https://github.com/vexlore-code)
+<p>
+  I'm <strong>Jubayer Hasan Munna</strong> (aka vexlore), a passionate cross-platform developer who thrives in building robust and elegant apps using Flutter. My foundation in C++ and love for Linux-based development has driven me to explore the intersection between performance, design, and scalability. I'm a strong advocate of clean, maintainable code, and open-source collaboration.
+</p>
+
+<ul>
+  <li>🔭 <strong>Currently working on:</strong> Flutter-powered cross-platform mobile apps with optimized performance.</li>
+  <li>🌱 <strong>Expanding skills in:</strong> DevOps workflows, containerization (Docker), Java backends, and advanced C++ STL.</li>
+  <li>🤝 <strong>Open to collaborate on:</strong> Modern UI design systems, Flutter packages, and Linux scripting tools.</li>
+  <li>💬 <strong>Tech topics I enjoy discussing:</strong> C++ memory management, Linux terminal tools, Flutter architecture patterns (e.g., BLoC, Riverpod).</li>
+  <li>📫 <strong>Email:</strong> <a href="mailto:jubiofficial.dev@gmail.com">jubiofficial.dev@gmail.com</a></li>
+  <li>🐙 <strong>GitHub:</strong> <a href="https://github.com/vexlore-code">github.com/vexlore-code</a></li>
+</ul>
 
 ---
 
