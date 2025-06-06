@@ -13,7 +13,7 @@
 
 ---
 
-### 💡 About Me <img src="https://i.imgur.com/Y3jHqaE.jpeg" width="15" style="vertical-align: middle; border-radius: 4px; margin-left: 4px;" />
+### 💡 About Me
 
 <p>
   I'm Jubayer Hasan Munna, better known online as vexlore, a committed cross-platform developer with a focus on creating aesthetically pleasing and dependable Flutter applications. Having a background in C++ and a deep enthusiasm for Linux-based development, I investigate the relationship between performance, design, and scalability. I'm a big supporter of writing clear, maintainable code and open-source collaboration.
