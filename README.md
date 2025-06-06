@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00adb5;">Vexlore</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#00adb5;">Jubayer Hasan Munna</span></h1>
 <h3 align="center">🚀 Flutter Developer | 💻 C++ & Linux Enthusiast</h3>
 
 <p align="center">
