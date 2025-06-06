@@ -84,13 +84,13 @@
 
 ### 🖥️ Terminal Style Preview
 
-> whoami
-vexlore
+$ whoami
+vexlore-code
 
-> skills --list
+$ skills --list
 C++, Flutter, Dart, Linux, Git, Python, Blender
 
-> contact --email
+$ contact --email
 jubiofficial.dev@gmail.com
 
 
