@@ -13,10 +13,9 @@
 
 ---
 
-### 💡 About Me <img src="https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/main/icons/linux.png?raw=true" width="25" alt="Penguin" />
-
+### 💡 About Me
 <p>
-  I'm <strong>Jubayer Hasan Munna</strong> (aka vexlore), a passionate cross-platform developer who thrives in building robust and elegant apps using Flutter. My foundation in C++ and love for Linux-based development has driven me to explore the intersection between performance, design, and scalability. I'm a strong advocate of clean, maintainable code, and open-source collaboration.
+  I'm Jubayer Hasan Munna, better known online as vexlore, a committed cross-platform developer with a focus on creating aesthetically pleasing and dependable Flutter applications. Having a background in C++ and a deep enthusiasm for Linux-based development, I investigate the relationship between performance, design, and scalability. I'm a big supporter of writing clear, maintainable code and open-source collaboration.
 </p>
 
 <ul>
