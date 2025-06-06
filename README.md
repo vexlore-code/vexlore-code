@@ -31,13 +31,30 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.codechef.com/users/vexlore" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" width="30" /></a>
-  <a href="https://www.hackerrank.com/vexlore" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="30" /></a>
-  <a href="https://codeforces.com/profile/vexlore" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="30" /></a>
-  <a href="https://www.leetcode.com/vexlore" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" /></a>
-  <a href="https://www.hackerearth.com/vexlore" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="30" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/vexlore" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="30" /></a>
-  <a href="https://www.topcoder.com/members/vexlore" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" width="30" /></a>
+  <a href="https://codeforces.com/profile/vexlore" target="blank">
+    <img src="https://i.imgur.com/5M5pL9o.png" alt="Codeforces" width="30" />
+  </a>
+  <a href="https://atcoder.jp/users/vexlore" target="blank">
+    <img src="https://i.imgur.com/BYMsYew.png" alt="AtCoder" width="30" />
+  </a>
+  <a href="https://www.topcoder.com/members/vexlore" target="blank">
+    <img src="https://i.imgur.com/FYHowTd.png" alt="Topcoder" width="30" />
+  </a>
+  <a href="https://www.leetcode.com/vexlore" target="blank">
+    <img src="https://i.imgur.com/Cyqmzma.png" alt="LeetCode" width="30" />
+  </a>
+  <a href="https://www.hackerrank.com/vexlore" target="blank">
+    <img src="https://i.imgur.com/e4EMPRk.png" alt="HackerRank" width="30" />
+  </a>
+  <a href="https://www.hackerearth.com/vexlore" target="blank">
+    <img src="https://i.imgur.com/EIrXEqV.png" alt="HackerEarth" width="30" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/vexlore" target="blank">
+    <img src="https://i.imgur.com/uatxg5v.png" alt="GeeksforGeeks" width="30" />
+  </a>
+  <a href="https://www.codechef.com/users/vexlore" target="blank">
+    <img src="https://i.imgur.com/yw0pRp0.png" alt="CodeChef" width="30" />
+  </a>
 </p>
 
 ---
