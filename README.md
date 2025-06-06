@@ -86,7 +86,7 @@
 
 ```
 > whoami
-vexlore
+vexlore-code
 
 > skills --list
 C++, Flutter, Dart, Linux, Git, Python, Blender
