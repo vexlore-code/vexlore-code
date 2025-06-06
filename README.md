@@ -84,6 +84,7 @@
 
 ### 🖥️ Terminal Style Preview
 
+```bash
 $ whoami
 vexlore-code
 
@@ -92,7 +93,6 @@ C++, Flutter, Dart, Linux, Git, Python, Blender
 
 $ contact --email
 jubiofficial.dev@gmail.com
-
 
 ---
 
