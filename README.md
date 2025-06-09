@@ -32,6 +32,7 @@
 ---
 
 ### 🌐 Connect with Me
+
 <p align="center">
   <a href="https://codeforces.com/profile/vexlore"><img src="https://i.imgur.com/vhgFHDH.png" alt="Codeforces" width="30" /></a>
   <a href="https://atcoder.jp/users/vexlore"><img src="https://i.imgur.com/EFoIQvN.png" alt="AtCoder" width="30" /></a>
@@ -46,6 +47,7 @@
 ---
 
 ### 🛠️ Languages & Tools
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
@@ -61,6 +63,14 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" alt="Arduino" />
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" alt="Blender" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="Figma" />
+</p>
+
+---
+
+### 📄 License
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License" /></a>
 </p>
 
 ---
