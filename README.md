@@ -32,13 +32,13 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://codeforces.com/profile/vexlore"><img src="https://i.imgur.com/vhgFHDH.png" alt="Codeforces" width="25" /></a>
-  <a href="https://atcoder.jp/users/vexlore"><img src="https://i.imgur.com/EFoIQvN.png" alt="AtCoder" width="25" /></a>
-  <a href="https://www.topcoder.com/members/vexlore"><img src="https://i.imgur.com/PnXp6uy.png" alt="Topcoder" width="25" /></a>
-  <a href="https://www.leetcode.com/vexlore"><img src="https://i.imgur.com/MnmhMLF.png" alt="LeetCode" width="25" /></a>
-  <a href="https://www.hackerrank.com/vexlore"><img src="https://i.imgur.com/GBpParY.png" alt="HackerRank" width="25" /></a>
-  <a href="https://www.hackerearth.com/vexlore"><img src="https://i.imgur.com/pjxc5v7.png" alt="HackerEarth" width="25" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/vexlore"><img src="https://i.imgur.com/llVAsBO.png" alt="GeeksforGeeks" width="25" /></a>
+  <a href="https://codeforces.com/profile/vexlore"><img src="https://i.imgur.com/vhgFHDH.png" alt="Codeforces" width="30" /></a>
+  <a href="https://atcoder.jp/users/vexlore"><img src="https://i.imgur.com/EFoIQvN.png" alt="AtCoder" width="30" /></a>
+  <a href="https://www.topcoder.com/members/vexlore"><img src="https://i.imgur.com/PnXp6uy.png" alt="Topcoder" width="30" /></a>
+  <a href="https://www.leetcode.com/vexlore"><img src="https://i.imgur.com/MnmhMLF.png" alt="LeetCode" width="30" /></a>
+  <a href="https://www.hackerrank.com/vexlore"><img src="https://i.imgur.com/GBpParY.png" alt="HackerRank" width="30" /></a>
+  <a href="https://www.hackerearth.com/vexlore"><img src="https://i.imgur.com/pjxc5v7.png" alt="HackerEarth" width="30" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/vexlore"><img src="https://i.imgur.com/llVAsBO.png" alt="GeeksforGeeks" width="30" /></a>
   <a href="https://www.codechef.com/users/vexlore"><img src="https://i.imgur.com/DMEmXlI.png" alt="CodeChef" width="25" /></a>
 </p>
 
