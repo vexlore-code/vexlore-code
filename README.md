@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vexlore-code&theme=gruvbox&margin-w=10&no-frame=true" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vexlore-code&theme=radical&margin-w=10&no-frame=true" alt="trophies" />
   </a>
 </p>
 
