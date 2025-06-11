@@ -2,25 +2,28 @@ name: Vexlore Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"        # everyday
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    permissions:
-      contents: write         # ensure permission to push files
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate snake SVG
+      - name: Generate custom snake SVG
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: vexlore-code
+          output_file: ./dist/github-contribution-grid-snake.svg
+          palette: "github-dark"
+          shape: "rounded"
+          square_size: 14
+          padding: 2
+          border_width: 1
+          corner_radius: 4
+          animation: true
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
