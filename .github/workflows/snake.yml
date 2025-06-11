@@ -1,114 +1,26 @@
-name: Deploy GitHub Contribution Snake
+name: 🐍 Vexlore Snake Trail
 
 on:
-  push:
-    branches:
-      - main   # or your default branch
-
-permissions:
-  contents: write
+  schedule:
+    - cron: "0 0 * * *"        # runs daily at midnight UTC
+  workflow_dispatch:          # allows manual trigger
 
 jobs:
-  build-and-deploy:
+  build-snake:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: 📦 Checkout Repository
+        uses: actions/checkout@v3
 
-      - name: Create public directory
-        run: mkdir -p public
-
-      - name: Generate GitHub Contribution Snake SVG
-        uses: Platane/snk/svg-only@v3
+      - name: 🌀 Generate Snake Contribution Grid
+        uses: Platane/snk@v3
         with:
           github_user_name: vexlore-code
-          output_file: ./public/github-contribution-grid-snake.svg
-          palette: radical
-          shape: rounded
-          square_size: 14
-          padding: 3
-          border_width: 1
-          corner_radius: 4
-          animation: true
+          output_file: ./output/github-contribution-grid-snake.svg
 
-      - name: Generate landing page
-        run: |
-          cat > public/index.html <<EOF
-          <!DOCTYPE html>
-          <html lang="en">
-          <head>
-            <meta charset="UTF-8" />
-            <meta name="viewport" content="width=device-width, initial-scale=1" />
-            <title>GitHub Contribution Snake — vexlore-code</title>
-            <style>
-              @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
-              body {
-                font-family: 'Poppins', sans-serif;
-                background-color: #1a1a1a;
-                color: #f8f8f2;
-                margin: 0;
-                height: 100vh;
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                align-items: center;
-                text-align: center;
-                padding: 1rem;
-              }
-              a {
-                color: #ff79c6;
-                font-weight: 600;
-                text-decoration: none;
-                transition: color 0.3s ease;
-              }
-              a:hover {
-                color: #ffb8d1;
-                text-decoration: underline;
-              }
-              h1 {
-                font-weight: 600;
-                font-size: 2.5rem;
-                margin-bottom: 0.5rem;
-              }
-              p {
-                font-size: 1.1rem;
-                margin: 0.25rem 0;
-              }
-              strong {
-                color: #50fa7b;
-              }
-              img {
-                margin-top: 2rem;
-                border-radius: 12px;
-                box-shadow: 0 0 25px rgba(255, 121, 198, 0.6);
-                max-width: 100%;
-                height: auto;
-                width: 480px;
-                max-width: 90vw;
-              }
-              @media (max-width: 600px) {
-                h1 {
-                  font-size: 2rem;
-                }
-                img {
-                  width: 100%;
-                }
-              }
-            </style>
-          </head>
-          <body>
-            <h1>🎉 GitHub Contribution Snake</h1>
-            <p>Automatically generated for commit <strong>\${{ github.sha }}</strong></p>
-            <p>Visualize your GitHub activity with the <a href="https://github.com/Platane/snk" target="_blank" rel="noopener noreferrer">Snake</a> tool.</p>
-            <img src="github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-          </body>
-          </html>
-          EOF
-
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: 🚀 Commit and Push Snake SVG
+        uses: EndBug/add-and-commit@v9
         with:
-          target_branch: gh-pages
-          build_dir: public
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          message: "🔁 Update Vexlore Snake Trail"
+          add: "output/github-contribution-grid-snake.svg"
