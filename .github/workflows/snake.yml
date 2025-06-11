@@ -1,22 +1,22 @@
-name: Vexlore Contribution Snake
+name: GitHub Contribution Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+on: push
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  publish:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Generate contribution snake
+      - name: Generate GitHub Contribution Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: vexlore-code
-          output_file: ./dist/github-contribution-grid-snake.svg
+          output_file: ./public/github-contribution-grid-snake.svg
           palette: radical
           shape: rounded
           square_size: 14
@@ -25,11 +25,63 @@ jobs:
           corner_radius: 4
           animation: true
 
+      - name: Generate Elegant Landing Page
+        run: |
+          mkdir -p public
+          cat > public/index.html <<EOL
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
+            <title>GitHub Contribution Snake</title>
+            <style>
+              body {
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                background-color: #1a1a1a;
+                color: #f8f8f2;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+                margin: 0;
+                text-align: center;
+                padding: 1rem;
+              }
+              a {
+                color: #ff79c6;
+                text-decoration: none;
+                font-weight: 600;
+              }
+              a:hover {
+                text-decoration: underline;
+              }
+              strong {
+                color: #50fa7b;
+              }
+              img {
+                margin-top: 2rem;
+                border-radius: 12px;
+                box-shadow: 0 0 15px rgba(255, 121, 198, 0.5);
+                max-width: 100%;
+                height: auto;
+              }
+            </style>
+          </head>
+          <body>
+            <h1>🎉 GitHub Contribution Snake</h1>
+            <p>Automatically generated for commit <strong>${{ github.sha }}</strong>.</p>
+            <p>Visualizing your GitHub activity with the <a href="https://github.com/Platane/snk" target="_blank" rel="noopener noreferrer">Snake</a> tool.</p>
+            <img src="github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+          </body>
+          </html>
+          EOL
 
-      - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: gh-pages
+          build_dir: public
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
