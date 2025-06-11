@@ -85,6 +85,12 @@
 </p>
 
 ---
+###🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vexlore-code/vexlore-code/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
 
 ### 🚧 Featured Projects (Coming Soon)
 <p align="center">
