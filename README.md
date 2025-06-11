@@ -88,11 +88,7 @@
 
 ### 🐍 GitHub Contribution Snake
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vexlore-code/vexlore-code/gh-pages/github-contribution-grid-snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vexlore-code/vexlore-code/gh-pages/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vexlore-code/vexlore-code/gh-pages/github-contribution-grid-snake.svg" width="480" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/vexlore-code/vexlore-code/output/github-contribution-grid-snake.svg" alt="Vexlore Snake Trail" />
 </p>
 
 ---
