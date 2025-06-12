@@ -1,137 +1,121 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Vexlore - Animated Portfolio</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css" />
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Fira Code', monospace;
-      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-      color: #fff;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-      overflow-x: hidden;
-    }
+<h1 align="center">Hi 👋, I'm <span style="color:#00adb5;">Jubayer Hasan Munna</span></h1>
+<h3 align="center">🚀 Flutter Developer | 💻 C++ & Linux Enthusiast</h3>
 
-    .container {
-      text-align: center;
-      padding: 2rem;
-      animation: fadeIn 2s ease;
-    }
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vexlore-code&label=Profile%20views&color=brightgreen&style=flat-square" alt="profile views" />
+</p>
 
-    .wave {
-      animation: waveAnim 2s infinite;
-      display: inline-block;
-      transform-origin: 70% 70%;
-    }
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vexlore-code&theme=gruvbox&margin-w=10&no-frame=true" alt="trophies" />
+  </a>
+</p>
 
-    .highlight {
-      color: #00adb5;
-    }
+---
 
-    .typing {
-      border-right: 2px solid #fff;
-      font-size: 1.2rem;
-      width: 22ch;
-      white-space: nowrap;
-      overflow: hidden;
-      animation: typing 4s steps(22), blink .75s step-end infinite;
-      margin: 1rem auto;
-    }
+### 💡 About Me
 
-    .terminal {
-      text-align: left;
-      background-color: #111;
-      padding: 1rem 1.5rem;
-      margin: 2rem auto;
-      max-width: 600px;
-      border-radius: 10px;
-      box-shadow: 0 0 15px rgba(0, 173, 181, 0.5);
-    }
+<p>
+  I'm <strong>Jubayer Hasan Munna</strong>, better known online as <strong>vexlore</strong>, a cross-platform developer passionate about building delightful Flutter applications. With a foundation in <strong>C++</strong> and a deep love for <strong>Linux</strong>, I explore the harmony of performance, design, and scalability. I'm all about crafting clean, efficient code and collaborating through open-source.
+</p>
 
-    .terminal .cmd {
-      color: #00adb5;
-    }
+<ul>
+  <li>🔭 <strong>Currently working on:</strong> High-performance Flutter apps for Android, iOS, and desktop.</li>
+  <li>🌱 <strong>Learning more about:</strong> Docker, CI/CD, Java-based APIs, and STL mastery.</li>
+  <li>🤝 <strong>Collaborations:</strong> Open to building design systems, Flutter packages, and bash CLI tools.</li>
+  <li>💬 <strong>Topics I enjoy:</strong> C++ memory models, terminal tooling, Flutter state management (BLoC, Riverpod).</li>
+  <li>📫 <strong>Email:</strong> <a href="mailto:jubiofficial.dev@gmail.com">jubiofficial.dev@gmail.com</a></li>
+  <li>🐙 <strong>GitHub:</strong> <a href="https://github.com/vexlore-code">github.com/vexlore-code</a></li>
+</ul>
 
-    .btn {
-      display: inline-block;
-      margin-top: 1rem;
-      padding: 0.75rem 1.5rem;
-      background-color: #00adb5;
-      color: #fff;
-      text-decoration: none;
-      border-radius: 8px;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-    }
+---
 
-    .btn:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 5px 15px rgba(0, 173, 181, 0.4);
-    }
+### 🌐 Connect with Me
 
-    @keyframes typing {
-      from { width: 0 }
-      to { width: 22ch }
-    }
+<p align="center">
+  <a href="https://codeforces.com/profile/vexlore"><img src="https://i.imgur.com/vhgFHDH.png" alt="Codeforces" width="30" /></a>
+  <a href="https://atcoder.jp/users/vexlore"><img src="https://i.imgur.com/EFoIQvN.png" alt="AtCoder" width="30" /></a>
+  <a href="https://www.topcoder.com/members/vexlore"><img src="https://i.imgur.com/PnXp6uy.png" alt="Topcoder" width="30" /></a>
+  <a href="https://www.leetcode.com/vexlore"><img src="https://i.imgur.com/MnmhMLF.png" alt="LeetCode" width="30" /></a>
+  <a href="https://www.hackerrank.com/vexlore"><img src="https://i.imgur.com/GBpParY.png" alt="HackerRank" width="30" /></a>
+  <a href="https://www.hackerearth.com/vexlore"><img src="https://i.imgur.com/pjxc5v7.png" alt="HackerEarth" width="30" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/vexlore"><img src="https://i.imgur.com/llVAsBO.png" alt="GeeksforGeeks" width="30" /></a>
+  <a href="https://www.codechef.com/users/vexlore"><img src="https://i.imgur.com/DMEmXlI.png" alt="CodeChef" width="25" /></a>
+</p>
 
-    @keyframes blink {
-      50% { border-color: transparent }
-    }
+---
 
-    @keyframes waveAnim {
-      0% { transform: rotate(0.0deg) }
-      10% { transform: rotate(14deg) }
-      20% { transform: rotate(-8deg) }
-      30% { transform: rotate(14deg) }
-      40% { transform: rotate(-4deg) }
-      50% { transform: rotate(10deg) }
-      60% { transform: rotate(0.0deg) }
-      100% { transform: rotate(0.0deg) }
-    }
+### 🛠️ Languages & Tools
 
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1><span class="wave">👋</span> I'm <span class="highlight">Jubayer Hasan Munna</span></h1>
-    <h2 class="typing">Flutter Developer | C++ Craftsman | Linux Lover</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" alt="Flutter" />
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" alt="Dart" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" alt="OpenCV" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" alt="Go" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" alt="Arduino" />
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" alt="Blender" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="Figma" />
+</p>
 
-    <div class="terminal">
-      <pre>
-$ <span class="cmd">whoami</span>
+---
+
+### 📄 License
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexlore-code&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 16px;" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vexlore-code&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="border-radius: 16px;" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vexlore-code&theme=radical" alt="GitHub Streak" style="border-radius: 16px;" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vexlore-code/vexlore-code/output/github-contribution-grid-snake.svg" alt="Vexlore Snake Trail" />
+</p>
+
+---
+
+### 🚧 Featured Projects (Coming Soon)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FAD000&center=true&width=600&lines=Building+Cool+Things...;Stay+tuned+for+updates!" />
+</p>
+
+---
+
+### 🖥️ Terminal Style Preview
+
+```bash
+$ whoami
 vexlore-code
 
-$ <span class="cmd">skills --list</span>
+$ skills --list
 C++, Flutter, Dart, Linux, Git, Python, Blender
 
-$ <span class="cmd">contact --email</span>
+$ contact --email
 jubiofficial.dev@gmail.com
-      </pre>
-    </div>
+```
 
-    <a href="https://github.com/vexlore-code" class="btn">Visit My GitHub</a>
-  </div>
+---
 
-  <script>
-    // Example subtle animation script (optional)
-    document.querySelector('.btn').addEventListener('mouseenter', () => {
-      document.body.style.background = 'linear-gradient(135deg, #1a2a3a, #2d4e5f, #3f6a84)';
-    });
-    document.querySelector('.btn').addEventListener('mouseleave', () => {
-      document.body.style.background = 'linear-gradient(135deg, #0f2027, #203a43, #2c5364)';
-    });
-  </script>
-</body>
-</html>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00ADB5&center=true&width=700&lines=Flutter+Dev+%7C+C%2B%2B+Craftsman+%7C+Linux+Lover" />
+</p>
+
+<p align="center"><strong>✨ Keep building. Keep learning. Keep sharing. ✨</strong></p>
