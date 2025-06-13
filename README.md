@@ -76,13 +76,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexlore-code&layout=compact&theme=radical" alt="Top Languages" width="320" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vexlore-code&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="420" />
-  <br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vexlore-code&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="420" />
-  </a>
+  <div style="display: inline-block; border-radius: 10px; padding: 10px; background-color:#0d1117;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexlore-code&layout=compact&theme=radical" alt="Top Languages" width="320" />
+    <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=vexlore-code&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="420" />
+    <br/><br/>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=vexlore-code&theme=radical&date_format=j%20M%5B%20Y%5D&border_radius=10" alt="GitHub Streak" width="420" />
+    </a>
+  </div>
 </p>
 
 ---
