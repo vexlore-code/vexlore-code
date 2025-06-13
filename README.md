@@ -80,7 +80,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=vexlore-code&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="border-radius: 16px;" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vexlore-code&theme=radical" alt="GitHub Streak" style="border-radius: 16px;" />
+  <img src="https://streak-stats.demolab.com/?user=vexlore-code&theme=radical" alt="GitHub Stats" style="border-radius: 16px;" />
 </p>
 
 ---
