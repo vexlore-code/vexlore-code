@@ -48,31 +48,35 @@
 ### 🏆 Scores / Ranking
 
 <!-- Stats Section -->
-<div style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; max-width: 960px; margin: auto;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-end; gap: 24px; flex-wrap: wrap;">
 
-  <!-- Column 1: Codeforces Card -->
-  <div style="flex: 1 1 300px; max-width: 300px; display: flex; justify-content: center; align-items: flex-end;">
-    <a href="https://codeforces.com/profile/vexlore" target="_blank" rel="noopener noreferrer">
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=vexlore" alt="Codeforces Stats" style="width: 300px; height: 250px; object-fit: contain;" />
+  <!-- Left: Codeforces Card -->
+  <div style="width: 340px;">
+    <a href="https://codeforces.com/profile/vexlore" target="_blank">
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=vexlore" alt="Codeforces Stats"
+        style="width: 300px; height: 250px; object-fit: contain;" />
     </a>
   </div>
 
-  <!-- Column 2: Badges -->
-  <div style="flex: 0 1 120px; max-width: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
-    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=vexlore&style=plastic" alt="Codeforces Badge" style="width: 120px; height: 20px; margin-bottom: 12px;" />
-    <img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvexlore&logo=leetcode&logoColor=yellow" alt="LeetCode Rating" style="width: 120px; height: 20px; margin-bottom: 12px;" />
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fvexlore" alt="AtCoder Badge" style="width: 120px; height: 20px;" />
+  <!-- Centered Badges with Left Margin -->
+  <div style="width: 120px; height: 250px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; margin-left: 5px;">
+    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=vexlore&style=plastic"
+      alt="Codeforces Badge" style="width: 120px; height: 20px; margin-bottom: 12px;" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvexlore&logo=leetcode&logoColor=yellow"
+      alt="LeetCode Rating" style="width: 120px; height: 20px; margin-bottom: 12px;" />
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fvexlore"
+      alt="AtCoder Badge" style="width: 120px; height: 20px;" />
   </div>
 
-  <!-- Column 3: LeetCode + AtCoder Cards -->
-  <div style="flex: 1 1 300px; max-width: 300px; display: flex; flex-direction: column; justify-content: space-between; align-items: center; height: 250px;">
-    <img src="https://leetcard.jacoblin.cool/vexlore?theme=wtf" alt="LeetCode Card" style="width: 250px; height: 123px; object-fit: contain;" />
-    <a href="https://github.com/iwbc-mzk/atcoder-readme-stats" target="_blank" rel="noopener noreferrer">
-      <img src="https://atcoder-readme-stats.vercel.app/stats/vexlore" alt="AtCoder Stats" style="width: 250px; height: 124px; object-fit: contain;" />
+  <!-- Right: LeetCode top-aligned, AtCoder bottom-aligned -->
+  <div style="width: 340px; height: 250px; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
+    <img src="https://leetcard.jacoblin.cool/vexlore?theme=wtf" alt="LeetCode Card"
+      style="width: 250px; height: 123px; object-fit: contain;" />
+    <a href="https://github.com/iwbc-mzk/atcoder-readme-stats" target="_blank">
+      <img src="https://atcoder-readme-stats.vercel.app/stats/vexlore" alt="AtCoder Stats"
+        style="width: 250px; height: 124px; object-fit: contain;" />
     </a>
   </div>
-
-</div>
   
 ---
 
