@@ -60,7 +60,7 @@
 
 <h3> 🔸 LeetCode </h3>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/vexlore?theme=light&ext=heatmap)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/vexlore?theme=wtf&ext=heatmap)  
 ![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvexlore&logo=leetcode&logoColor=yellow)
 
 </div>
