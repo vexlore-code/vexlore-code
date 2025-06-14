@@ -60,7 +60,7 @@
 
 ### 🔸 LeetCode
 
-![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/vexlore?show_history=5&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)  
+![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/vexlore?show_history=5&width=450)](https://github.com/vexlore/atcoder-readme-stats)  
 ![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvexlore&logo=leetcode&logoColor=yellow)
 
 </div>
