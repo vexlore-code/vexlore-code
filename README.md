@@ -47,10 +47,8 @@
 
 ### 🏆 Scores / Ranking
 
-
-
 <!-- Stats Section -->
-<div align="center" style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; max-width: 1040px; margin: auto;">
+<div align="center" style="display: flex; justify-content: center; gap: 24px; flex-wrap: nowrap; max-width: 1040px; margin: auto;">
 
   <!-- 1st Column: Codeforces Card -->
   <div style="flex: 0 0 340px; display: flex; justify-content: center; align-items: flex-end;">
@@ -81,6 +79,7 @@
   </div>
 
 </div>
+
   
 ---
 
