@@ -62,7 +62,7 @@
 
   <!-- Centered Badges with Left Margin -->
   <div
-    style="width: 120px; height: 250px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; margin-left: 25px;">
+    style="width: 120px; height: 250px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; margin-left: 0px;">
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=vexlore&style=plastic"
       alt="Codeforces Badge" style="width: 120px; height: 20px; margin-bottom: 12px;" />
     <img
