@@ -44,32 +44,25 @@
 </p>
 
 ---
-### 🧠 Competitive Programming Profiles
+## 🧠 Competitive Programming Profiles
 
-<div align="center">
+### 🔹 Codeforces
 
-<!-- Codeforces -->
-<a href="https://codeforces.com/profile/redheadphone">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=redheadphone" alt="Codeforces Stats" width="300" height="100"/>
-</a>
-<br/>
-<img src="https://codeforces-readme-stats.vercel.app/api/badge?username=vexlore&style=plastic" alt="Codeforces Badge" width="160" height="30"/>
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=redheadphone)](https://codeforces.com/profile/redheadphone)
 
-<!-- LeetCode -->
-<br/><br/>
-<img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvexlore&logo=leetcode&logoColor=yellow" alt="LeetCode Rating" width="160" height="30"/>
-<br/>
-<img src="https://leetcard.jacoblin.cool/lapor?ext=contest" alt="LeetCode Contest Badge" width="300" height="100"/>
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=redheadphone)
 
-<!-- AtCoder -->
-<br/><br/>
-<a href="https://atcoder.jp/users/iwbc_mzk">
-  <img src="https://atcoder-readme-stats.vercel.app/stats/iwbc_mzk?show_history=5&width=450" alt="AtCoder Stats" width="300" height="100"/>
-</a>
-<br/>
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fvexlore" alt="AtCoder Badge" width="160" height="30"/>
+### 🔸 LeetCode
 
-</div>
+![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvexlore&logo=leetcode&logoColor=yellow)
+
+![LeetCode Contest](https://leetcard.jacoblin.cool/lapor?ext=contest)
+
+### 🔺 AtCoder
+
+[![iwbc_mzk's AtCoder Stats](https://atcoder-readme-stats.vercel.app/stats/iwbc_mzk?show_history=5&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+
+![AtCoder Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fvexlore)
 
 ---
 
