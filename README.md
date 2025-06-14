@@ -71,7 +71,7 @@
   <!-- Right: LeetCode top-aligned, AtCoder bottom-aligned -->
   <div style="width: 340px; height: 250px; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
     <img src="https://leetcard.jacoblin.cool/vexlore?theme=wtf" alt="LeetCode Card"
-      style="width: 250px; height: 150px; object-fit: contain;" />
+      style="width: 250px; height: 130px; object-fit: contain;" />
     <a href="https://github.com/iwbc-mzk/atcoder-readme-stats" target="_blank">
       <img src="https://atcoder-readme-stats.vercel.app/stats/vexlore" alt="AtCoder Stats"
         style="width: 250px; height: 124px; object-fit: contain;" />
