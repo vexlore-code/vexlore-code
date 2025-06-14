@@ -80,7 +80,10 @@
 
 </div>
 
-  
+  | Codeforces Profile                                               | Badges                                                                                                    | LeetCode & AtCoder Stats                                                                             |
+|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| <a href="https://codeforces.com/profile/vexlore" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=vexlore" alt="Codeforces Stats" width="300" height="250" style="display: block;" /></a> | ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=vexlore&style=plastic) <br> ![LeetCode Rating](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvexlore&logo=leetcode&logoColor=yellow) <br> ![AtCoder Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fvexlore) | <img src="https://leetcard.jacoblin.cool/vexlore?theme=wtf" alt="LeetCode Card" width="300" height="125" style="display: block;" /> <br> <a href="https://github.com/iwbc-mzk/atcoder-readme-stats" target="_blank"><img src="https://atcoder-readme-stats.vercel.app/stats/vexlore" alt="AtCoder Stats" width="300" height="125" style="display: block;" /></a> |
+
 ---
 
 ### 🛠️ Languages & Tools
