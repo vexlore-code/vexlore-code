@@ -47,42 +47,11 @@
 
 ### 🏆 Scores / Ranking
 
-<!-- Stats Section -->
-<div align="center" style="display: flex; justify-content: center; gap: 24px; flex-wrap: nowrap; max-width: 1040px; margin: auto;">
 
-  <!-- 1st Column: Codeforces Card -->
-  <div style="flex: 0 0 340px; display: flex; justify-content: center; align-items: flex-end;">
-    <a href="https://codeforces.com/profile/vexlore" target="_blank" rel="noopener noreferrer">
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=vexlore" alt="Codeforces Stats"
-        style="width: 300px; height: 250px; object-fit: contain;" />
-    </a>
-  </div>
-
-  <!-- 2nd Column: Badges -->
-  <div style="flex: 0 0 120px; height: 250px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
-    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=vexlore&style=plastic"
-      alt="Codeforces Badge" style="width: 120px; height: 20px; margin-bottom: 12px;" />
-    <img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvexlore&logo=leetcode&logoColor=yellow"
-      alt="LeetCode Rating" style="width: 120px; height: 20px; margin-bottom: 12px;" />
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fvexlore"
-      alt="AtCoder Badge" style="width: 120px; height: 20px;" />
-  </div>
-
-  <!-- 3rd Column: LeetCode top, AtCoder bottom -->
-  <div style="flex: 0 0 340px; height: 250px; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
-    <img src="https://leetcard.jacoblin.cool/vexlore?theme=wtf" alt="LeetCode Card"
-      style="width: 250px; height: 125px; object-fit: contain;" />
-    <a href="https://github.com/iwbc-mzk/atcoder-readme-stats" target="_blank" rel="noopener noreferrer">
-      <img src="https://atcoder-readme-stats.vercel.app/stats/vexlore" alt="AtCoder Stats"
-        style="width: 250px; height: 125px; object-fit: contain;" />
-    </a>
-  </div>
-
-</div>
-
-  | Codeforces Profile                                               | Badges                                                                                                    | LeetCode & AtCoder Stats                                                                             |
+| Codeforces Profile                                               | Badges                                                                                                    | LeetCode & AtCoder Stats                                                                             |
 |-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| <a href="https://codeforces.com/profile/vexlore" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=vexlore" alt="Codeforces Stats" width="300" height="250" style="display: block;" /></a> | ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=vexlore&style=plastic) <br> ![LeetCode Rating](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvexlore&logo=leetcode&logoColor=yellow) <br> ![AtCoder Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fvexlore) | <img src="https://leetcard.jacoblin.cool/vexlore?theme=wtf" alt="LeetCode Card" width="300" height="125" style="display: block;" /> <br> <a href="https://github.com/iwbc-mzk/atcoder-readme-stats" target="_blank"><img src="https://atcoder-readme-stats.vercel.app/stats/vexlore" alt="AtCoder Stats" width="300" height="125" style="display: block;" /></a> |
+| <div align="center" style="display: flex; justify-content: center; align-items: center; height: 250px;"><a href="https://codeforces.com/profile/vexlore" target="_blank"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=vexlore" alt="Codeforces Stats" width="300" height="250" style="display: block;" /></a></div> | <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 250px; gap: 12px;"> <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=vexlore&style=plastic" alt="Codeforces Badge" width="120" height="20" /> <img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvexlore&logo=leetcode&logoColor=yellow" alt="LeetCode Rating" width="120" height="20" /> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fvexlore" alt="AtCoder Badge" width="120" height="20" /> </div> | <div align="center" style="display: flex; flex-direction: column; justify-content: space-between; align-items: center; height: 250px;"> <img src="https://leetcard.jacoblin.cool/vexlore?theme=wtf" alt="LeetCode Card" width="300" height="125" style="display: block; margin-bottom: 0;" /> <a href="https://github.com/iwbc-mzk/atcoder-readme-stats" target="_blank"><img src="https://atcoder-readme-stats.vercel.app/stats/vexlore" alt="AtCoder Stats" width="300" height="125" style="display: block; margin-top: 0;" /></a> </div> |
+
 
 ---
 
