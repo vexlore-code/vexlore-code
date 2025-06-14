@@ -50,17 +50,17 @@
 
 ### 🔹 Codeforces
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=redheadphone)](https://codeforces.com/profile/redheadphone)  
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=redheadphone)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=vexlore)](https://codeforces.com/profile/vexlore)  
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=vexlore)
 
 ### 🔺 AtCoder
 
-[![iwbc_mzk's AtCoder Stats](https://atcoder-readme-stats.vercel.app/stats/iwbc_mzk?show_history=5&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)  
+[![vexlore's AtCoder Stats](https://atcoder-readme-stats.vercel.app/stats/vexlore?show_history=5&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)  
 ![AtCoder Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fvexlore)
 
 ### 🔸 LeetCode
 
-![LeetCode Contest](https://leetcard.jacoblin.cool/lapor?ext=contest)  
+![LeetCode Contest](https://leetcard.jacoblin.cool/vexlore?ext=contest)  
 ![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvexlore&logo=leetcode&logoColor=yellow)
 
 </div>
