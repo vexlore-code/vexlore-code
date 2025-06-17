@@ -1,5 +1,10 @@
-<h1 align="center" style="color:#00adb5;">Hi 👋, I'm <span style="color:#ffde59;">Jubayer Hasan Munna</span></h1>
-<h3 align="center" style="color:#ff6f61;">🚀 Flutter Developer | 💻 C++ & Linux Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Jubayer+Hasan+Munna" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=800&lines=🚀+Flutter+Developer+%7C+💻+C%2B%2B+%26+Linux+Enthusiast" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vexlore-code&label=Profile%20views&color=brightgreen&style=flat-square" alt="profile views" />
