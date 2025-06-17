@@ -1,10 +1,5 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#00adb5;">Jubayer Hasan Munna</span>
-</h1>
-<h3 align="center">
-  <span style="color:#ff6f61;">🚀 Flutter Developer</span> |
-  <span style="color:#6a5acd;">💻 C++ & Linux Enthusiast</span>
-</h3>
+<h1 align="center" style="color:#00adb5;">Hi 👋, I'm <span style="color:#ffde59;">Jubayer Hasan Munna</span></h1>
+<h3 align="center" style="color:#ff6f61;">🚀 Flutter Developer | 💻 C++ & Linux Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00ADB5&center=true&width=700&lines=Flutter+Dev+%7C+C%2B%2B+Craftsman+%7C+Linux+Lover" />
