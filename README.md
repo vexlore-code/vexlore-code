@@ -1,18 +1,5 @@
-<p align="center">
-  <svg fill="#00adb5" width="100%" height="40">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="28" font-family="Fira Code">
-      Hi 👋, I'm Jubayer Hasan Munna
-    </text>
-  </svg>
-</p>
-
-<p align="center">
-  <svg fill="#ff6f61" width="100%" height="30">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20" font-family="Fira Code">
-      🚀 Flutter Developer | 💻 C++ & Linux Enthusiast
-    </text>
-  </svg>
-</p>
+<h1 align="center">Hi 👋, I'm <span style="color:#00adb5;">Jubayer Hasan Munna</span></h1>
+<h3 align="center">🚀 Flutter Developer | 💻 C++ & Linux Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vexlore-code&label=Profile%20views&color=brightgreen&style=flat-square" alt="profile views" />
