@@ -1,9 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Jubayer+Hasan+Munna" />
+  <svg fill="#00adb5" width="100%" height="40">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="28" font-family="Fira Code">
+      Hi 👋, I'm Jubayer Hasan Munna
+    </text>
+  </svg>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=800&lines=🚀+Flutter+Developer+%7C+💻+C%2B%2B+%26+Linux+Enthusiast" />
+  <svg fill="#ff6f61" width="100%" height="30">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20" font-family="Fira Code">
+      🚀 Flutter Developer | 💻 C++ & Linux Enthusiast
+    </text>
+  </svg>
 </p>
 
 <p align="center">
