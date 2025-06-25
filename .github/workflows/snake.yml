@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"        # runs daily at midnight UTC
   workflow_dispatch:          # allows manual trigger
 
+permissions:
+  contents: write             # 🔧 Needed to push commits
+
 jobs:
   build-snake:
     runs-on: ubuntu-latest
