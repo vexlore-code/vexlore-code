@@ -17,7 +17,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: vexlore-code
-          output_file: ./output/github-contribution-grid-snake.svg
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
 
       - name: 🚀 Commit and Push Snake SVG
         uses: EndBug/add-and-commit@v9
