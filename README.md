@@ -104,7 +104,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vexlore-code&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="420" />
   <br/>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vexlore-code&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="420" />
+    <img src="https://streak-stats.demolab.com?user=vexlore-code&theme=radical" alt="GitHub Streak"&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="420" />
   </a>
 </p>
 
