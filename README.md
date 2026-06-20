@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=750&lines=Flutter+Developer+%7C+Cross-Platform+Apps;MERN+Stack+%7C+MongoDB+%2B+Express+%2B+React+%2B+Node;WordPress+Developer+%7C+Custom+Themes+%26+Plugins;C%2B%2B+Craftsman+%7C+Competitive+Programmer;Linux+Power+User+%7C+Terminal+Tinkerer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=750&lines=Flutter+Developer+%7C+Cross-Platform+Apps;MERN+Stack+%7C+MariaDB+%2B+Express+%2B+React+%2B+Node;WordPress+Developer+%7C+Custom+Themes+%26+Plugins;C%2B%2B+Craftsman+%7C+Competitive+Programmer;Linux+Power+User+%7C+Terminal+Tinkerer" alt="Typing SVG" />
 
 </div>
 
@@ -25,7 +25,7 @@ jubayer_hasan_munna:
   location: "Bangladesh 🇧🇩"
   focus:
     - "Flutter apps for Android, iOS, Web & Desktop"
-    - "MERN Stack web applications (MongoDB, Express, React, Node.js)"
+    - "MERN Stack web applications (MariaDB, Express, React, Node.js)"
     - "WordPress development — custom themes, plugins & client sites"
     - "Systems-level programming with C++ on Linux"
   philosophy: "Clean code, scalable architecture, and a deep respect for the terminal"
@@ -39,7 +39,7 @@ When I'm not shipping features, you'll usually find me solving algorithmic probl
 - 🌐 **Also building:** Custom WordPress themes & plugins, and client-facing business websites.
 - 🌱 **Currently learning:** Docker, CI/CD pipelines, Java-based APIs, and deepening my STL mastery.
 - 🤝 **Open to collaborating on:** Design systems, Flutter packages, MERN starter kits, WordPress plugins, and bash/CLI tooling.
-- 💬 **Ask me about:** C++ memory models, Flutter state management (BLoC, Riverpod, Provider), MongoDB schema design, REST API architecture, or terminal-based productivity workflows.
+- 💬 **Ask me about:** C++ memory models, Flutter state management (BLoC, Riverpod, Provider), MariaDB schema design, REST API architecture, or terminal-based productivity workflows.
 - ⚡ **Fun fact:** I'm equally comfortable in a `vim` session and a Figma file — I care about both the engine and the experience.
 - 📫 **Reach me at:** [jubiofficial.dev@gmail.com](mailto:jubiofficial.dev@gmail.com)
 - 🐙 **GitHub:** [github.com/vexlore-code](https://github.com/vexlore-code)
@@ -49,7 +49,7 @@ When I'm not shipping features, you'll usually find me solving algorithmic probl
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,express,mongodb,wordpress,php,mysql,cpp,c,py,go,linux,bash,git,docker,figma,arduino,blender,opencv,html,css&theme=dark&perline=12" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,express,Mariadb,wordpress,php,mysql,cpp,c,py,go,linux,bash,git,docker,figma,arduino,blender,opencv,html,css&theme=dark&perline=12" alt="Skill Icons" />
 </p>
 
 <details>
@@ -67,7 +67,7 @@ When I'm not shipping features, you'll usually find me solving algorithmic probl
 
 **🌐 MERN & Full-Stack Web**
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-47A248?style=for-the-badge&logo=Mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -266,7 +266,7 @@ $ role --current
 Flutter Developer | MERN Stack Developer | WordPress Developer | C++ Engineer
 
 $ skills --list
-Flutter, Dart, MongoDB, Express.js, React, Node.js, WordPress, PHP, MySQL,
+Flutter, Dart, MariaDB, Express.js, React, Node.js, WordPress, PHP, MySQL,
 C, C++, Python, Go, Linux, Bash, Docker, Git
 
 $ status --check
