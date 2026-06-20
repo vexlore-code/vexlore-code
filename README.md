@@ -14,12 +14,6 @@
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vexlore-code&theme=gruvbox&margin-w=10&no-frame=true" alt="trophies" />
-  </a>
-</p>
-
 <br/>
 
 ## 💡 About Me
@@ -54,7 +48,16 @@ When I'm not shipping features, you'll usually find me solving algorithmic probl
 
 ## 🛠️ Tech Stack
 
-#### 📱 Mobile & Cross-Platform
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,express,mongodb,wordpress,php,mysql,cpp,c,py,go,linux,bash,git,docker,figma,arduino,blender,opencv,html,css&theme=dark&perline=12" alt="Skill Icons" />
+</p>
+
+<details>
+<summary><b>📂 View categorized stack (click to expand)</b></summary>
+
+<br/>
+
+**📱 Mobile & Cross-Platform**
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -62,17 +65,16 @@ When I'm not shipping features, you'll usually find me solving algorithmic probl
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </p>
 
-#### 🌐 MERN & Full-Stack Web
+**🌐 MERN & Full-Stack Web**
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-API-black?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-#### 🟦 WordPress & CMS
+**🟦 WordPress & CMS**
 <p align="left">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -81,7 +83,7 @@ When I'm not shipping features, you'll usually find me solving algorithmic probl
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
 </p>
 
-#### ⚙️ Systems, Languages & Tools
+**⚙️ Systems, Languages & Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -91,13 +93,13 @@ When I'm not shipping features, you'll usually find me solving algorithmic probl
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
+</details>
 
 <br/>
 
@@ -138,32 +140,49 @@ When I'm not shipping features, you'll usually find me solving algorithmic probl
 
 ## 🚧 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/vexlore-code/REPO_ONE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vexlore-code&repo=REPO_ONE&theme=dark&hide_border=true&bg_color=00000000&title_color=00ADB5&icon_color=00ADB5&text_color=C9D1D9" alt="Repo Card 1"/>
+  </a>
+  <a href="https://github.com/vexlore-code/REPO_TWO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vexlore-code&repo=REPO_TWO&theme=dark&hide_border=true&bg_color=00000000&title_color=00ADB5&icon_color=00ADB5&text_color=C9D1D9" alt="Repo Card 2"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/vexlore-code/REPO_THREE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vexlore-code&repo=REPO_THREE&theme=dark&hide_border=true&bg_color=00000000&title_color=00ADB5&icon_color=00ADB5&text_color=C9D1D9" alt="Repo Card 3"/>
+  </a>
+</p>
 
-| Project | Stack | Description |
-|---|---|---|
-| 🟢 *Coming Soon* | Flutter, BLoC | High-performance cross-platform app |
-| 🟢 *Coming Soon* | MERN | Full-stack web application |
-| 🟢 *Coming Soon* | WordPress, PHP | Custom theme & plugin work |
-| 🟢 *Coming Soon* | C++ | Systems-level utility / CLI tool |
+> 🔧 **Action needed:** these cards are live and dynamic (stars/forks/language pull automatically), but `REPO_ONE`, `REPO_TWO`, `REPO_THREE` are placeholders. Replace each `repo=` value with your real repository names and they'll render instantly — no rebuilding needed.
 
-*Pin your top repositories above to replace this table — ask and I can generate the exact markdown once you share project names & links.*
+<br/>
 
-</div>
+## 📋 GitHub Summary Cards
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vexlore-code&theme=github_dark" alt="Profile Details"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vexlore-code&theme=github_dark" alt="Stats"/>
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vexlore-code&theme=github_dark" alt="Repos per Language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vexlore-code&theme=github_dark" alt="Most Commit Language"/>
+</p>
+<p align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vexlore-code&theme=github_dark&utcOffset=6" alt="Productive Time"/>
+</p>
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexlore-code&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vexlore-code&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexlore-code&layout=compact&hide_border=true&bg_color=00000000&title_color=00ADB5&text_color=C9D1D9&langs_count=8&card_width=400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vexlore-code&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ADB5&icon_color=00ADB5&text_color=C9D1D9&card_width=400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vexlore-code&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="600" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=vexlore-code&hide_border=true&background=00000000&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" width="700" />
 </p>
 
 <br/>
@@ -171,8 +190,18 @@ When I'm not shipping features, you'll usually find me solving algorithmic probl
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vexlore-code&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vexlore-code&bg_color=00000000&color=00ADB5&line=00ADB5&point=FFFFFF&area=true&area_color=00ADB5&hide_border=true&title=GitHub%20Activity" alt="Activity Graph" width="100%"/>
 </p>
+
+<br/>
+
+## 🗿 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vexlore-code/vexlore-code/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%"/>
+</p>
+
+> 🔧 **Action needed:** this renders once the bonus workflow (`profile-3d-contrib.yml`, shared alongside this README) is added to your repo and runs for the first time — it generates the SVG and commits it automatically every day.
 
 <br/>
 
@@ -180,11 +209,11 @@ When I'm not shipping features, you'll usually find me solving algorithmic probl
 
 <p align="center">
 
-`Flutter / Dart`  ████████████████████░░░░  85%
-`C++`              ███████████████████░░░░░  80%
-`MERN Stack`       ████████████████░░░░░░░░  70%
-`WordPress / PHP`  ██████████████░░░░░░░░░░  60%
-`Linux / Bash`     ██████████████████░░░░░░  75%
+`Flutter / Dart`   ████████████████████░░░░  85%
+`C++`               ███████████████████░░░░░  80%
+`MERN Stack`        ████████████████░░░░░░░░  70%
+`WordPress / PHP`   ██████████████░░░░░░░░░░  60%
+`Linux / Bash`      ██████████████████░░░░░░  75%
 
 </p>
 
@@ -193,8 +222,17 @@ When I'm not shipping features, you'll usually find me solving algorithmic probl
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vexlore-code&theme=algolia&no-frame=true&row=1&column=7" alt="achievements" />
+  <img src="https://github-trophies.vercel.app/?username=vexlore-code&theme=onedark&no-frame=true&margin-w=10&row=1&column=7" alt="trophies" />
 </p>
+
+<br/>
+
+## ⌨️ Coding Activity (WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> 🔧 **Action needed:** this section auto-fills with your weekly coding-time breakdown once you connect a [WakaTime](https://wakatime.com) account and add the bonus workflow (`waka-readme.yml`) below — it edits only the text between the markers above, so the rest of this file stays untouched.
 
 <br/>
 
