@@ -168,11 +168,53 @@ When I'm not shipping features, you'll usually find me solving algorithmic probl
 
 <br/>
 
-## 🐍 Contribution Snake
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vexlore-code/vexlore-code/output/github-contribution-grid-snake.svg" alt="Vexlore Snake Trail" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vexlore-code&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </p>
+
+<br/>
+
+## 🎯 Skill Proficiency
+
+<p align="center">
+
+`Flutter / Dart`  ████████████████████░░░░  85%
+`C++`              ███████████████████░░░░░  80%
+`MERN Stack`       ████████████████░░░░░░░░  70%
+`WordPress / PHP`  ██████████████░░░░░░░░░░  60%
+`Linux / Bash`     ██████████████████░░░░░░  75%
+
+</p>
+
+<br/>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vexlore-code&theme=algolia&no-frame=true&row=1&column=7" alt="achievements" />
+</p>
+
+<br/>
+
+## 🗨️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote" />
+</p>
+
+<br/>
+
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/vexlore"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy me a coffee" /></a>
+  <a href="https://ko-fi.com/vexlore"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="ko-fi" /></a>
+  <a href="https://github.com/sponsors/vexlore-code"><img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="github sponsors" /></a>
+</p>
+
+<p align="center"><em>Update the links above with your real handles if these placeholders don't match yet.</em></p>
 
 <br/>
 
