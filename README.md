@@ -226,7 +226,7 @@ Every project I build now includes locally running LLM features — private by d
 I solve algorithmic problems in **C++** on **Codeforces** — sharpening DSA clean code and problem-solving under pressure.
 
 <p align="center">
-  <a href="https://codeforces.com/profile/vexlore-code">
+  <a href="https://codeforces.com/profile/vexlore">
     <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
   </a>
 </p>
