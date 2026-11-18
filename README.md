@@ -1,299 +1,276 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,15,18&text=Hi%20There,%20I'm%20Jubayer%20Hasan%20Munna&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%7C%20MERN%20Stack%20%7C%20WordPress%20%7C%20C%2B%2B%20%7C%20Linux&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a1520,50:1F8ACB,100:0b0f14&text=Hey,%20I'm%20Munna&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Flutter%20%C2%B7%20Next.js%20%C2%B7%20Computer%20Vision%20%C2%B7%20Local%20LLM&descAlignY=55&descSize=20&stroke=1F8ACB&strokeWidth=1" width="100%"/>
+
+<br/>
 
 <a href="https://github.com/vexlore-code">
-  <img src="https://komarev.com/ghpvc/?username=vexlore-code&label=Profile%20Views&color=00adb5&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vexlore-code&label=Profile%20Views&color=1F8ACB&style=for-the-badge" alt="Profile views" />
 </a>
-<img src="https://img.shields.io/github/followers/vexlore-code?label=Followers&style=for-the-badge&color=00adb5" alt="followers" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" alt="status" />
+<img src="https://img.shields.io/github/followers/vexlore-code?label=Followers&style=for-the-badge&color=1F8ACB" alt="Followers" />
+<img src="https://img.shields.io/badge/Open%20to-Internship%20%26%20Remote-1F8ACB?style=for-the-badge" alt="Open to" />
+<img src="https://img.shields.io/badge/Location-Bangladesh-1F8ACB?style=for-the-badge" alt="Location" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=1F8ACB&center=true&vCenter=true&width=780&lines=Flutter+Developer+%7C+Cross-Platform+Apps;Next.js+%2B+TypeScript+%7C+Full-Stack+Web;YOLO+%2B+Python+%7C+Robotics+Vision;Local+LLM+%7C+Agentic+AI+Workflows;C%2B%2B+%7C+Competitive+Programmer" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=750&lines=Flutter+Developer+%7C+Cross-Platform+Apps;MERN+Stack+%7C+MariaDB+%2B+Express+%2B+React+%2B+Node;WordPress+Developer+%7C+Custom+Themes+%26+Plugins;C%2B%2B+Craftsman+%7C+Competitive+Programmer;Linux+Power+User+%7C+Terminal+Tinkerer" alt="Typing SVG" />
+> **Notice:** Most of my repositories are private due to client work and proprietary project code. If you'd like a code walkthrough or to see my private work, feel free to reach out!
 
 </div>
 
-<br/>
+---
 
-## 💡 About Me
+## About Me
 
-```yaml
-jubayer_hasan_munna:
-  alias: "vexlore"
-  role: "Software Engineer & Cross-Platform Developer"
-  location: "Bangladesh 🇧🇩"
-  focus:
-    - "Flutter apps for Android, iOS, Web & Desktop"
-    - "MERN Stack web applications (MariaDB, Express, React, Node.js)"
-    - "WordPress development — custom themes, plugins & client sites"
-    - "Systems-level programming with C++ on Linux"
-  philosophy: "Clean code, scalable architecture, and a deep respect for the terminal"
-```
+<table>
+<tr>
+<td valign="top" width="60%">
 
-I'm **Jubayer Hasan Munna**, known online as **vexlore**, a cross-platform and full-stack developer who genuinely enjoys the craft of building software end to end. My world spans from writing pixel-perfect **Flutter** interfaces to architecting **MERN stack** applications, and from shipping client-ready **WordPress** sites to optimizing low-level **C++** code on **Linux**. I like systems that are fast, code that is readable, and tools that get out of your way.
+I'm **Munna** — a **CSE student** at **Metropolitan University, Sylhet**, building real products, not just tutorials.
 
-When I'm not shipping features, you'll usually find me solving algorithmic problems on competitive programming judges, sharpening my understanding of memory models and data structures, or customizing my Linux setup just a little bit more than necessary.
+Currently building:
+- **MU CSE Fest** — official site live and shipped end-to-end
+- **CoverPaper** — Flutter wallpaper app *(demo paused · Vercel limit)*
+- **Robotics vision** — YOLO-based human detection
+- **Local LLM agentic workflows** — offline AI experiments
 
-- 🔭 **Currently working on:** High-performance Flutter applications and full-stack MERN projects with clean, reusable architecture.
-- 🌐 **Also building:** Custom WordPress themes & plugins, and client-facing business websites.
-- 🌱 **Currently learning:** Docker, CI/CD pipelines, Java-based APIs, and deepening my STL mastery.
-- 🤝 **Open to collaborating on:** Design systems, Flutter packages, MERN starter kits, WordPress plugins, and bash/CLI tooling.
-- 💬 **Ask me about:** C++ memory models, Flutter state management (BLoC, Riverpod, Provider), MariaDB schema design, REST API architecture, or terminal-based productivity workflows.
-- ⚡ **Fun fact:** I'm equally comfortable in a `vim` session and a Figma file — I care about both the engine and the experience.
-- 📫 **Reach me at:** [jubiofficial.dev@gmail.com](mailto:jubiofficial.dev@gmail.com)
-- 🐙 **GitHub:** [github.com/vexlore-code](https://github.com/vexlore-code)
+> *Curious by default. Shipping by habit.*
 
-<br/>
+</td>
+<td valign="top" width="40%">
 
-## 🛠️ Tech Stack
+| | |
+| :--- | :--- |
+| **Studying** | CSE · Metropolitan University |
+| **Shipped** | [mucsefest.com](https://mucsefest.com) `Live` |
+| **Building** | CoverPaper *(paused demo)* |
+| **Exploring** | YOLO · Local LLM · Agentic AI |
+| **Contact** | [jubiofficial.dev@gmail.com](mailto:jubiofficial.dev@gmail.com) |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,express,Mariadb,wordpress,php,mysql,cpp,c,py,go,linux,bash,git,docker,figma,arduino,blender,opencv,html,css&theme=dark&perline=12" alt="Skill Icons" />
-</p>
+</td>
+</tr>
+</table>
 
-<details>
-<summary><b>📂 View categorized stack (click to expand)</b></summary>
+---
 
-<br/>
-
-**📱 Mobile & Cross-Platform**
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-</p>
-
-**🌐 MERN & Full-Stack Web**
-<p align="left">
-  <img src="https://img.shields.io/badge/MariaDB-47A248?style=for-the-badge&logo=Mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-**🟦 WordPress & CMS**
-<p align="left">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-</p>
-
-**⚙️ Systems, Languages & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-</details>
-
-<br/>
-
-## 🌐 Connect with Me
+## Tech Stack
 
 <p align="center">
-  <a href="https://codeforces.com/profile/vexlore"><img src="https://i.imgur.com/vhgFHDH.png" alt="Codeforces" width="32" /></a>&nbsp;&nbsp;
-  <a href="https://atcoder.jp/users/vexlore"><img src="https://i.imgur.com/EFoIQvN.png" alt="AtCoder" width="32" /></a>&nbsp;&nbsp;
-  <a href="https://www.topcoder.com/members/vexlore"><img src="https://i.imgur.com/PnXp6uy.png" alt="Topcoder" width="32" /></a>&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/vexlore"><img src="https://i.imgur.com/MnmhMLF.png" alt="LeetCode" width="32" /></a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/vexlore"><img src="https://i.imgur.com/GBpParY.png" alt="HackerRank" width="32" /></a>&nbsp;&nbsp;
-  <a href="https://www.hackerearth.com/vexlore"><img src="https://i.imgur.com/pjxc5v7.png" alt="HackerEarth" width="32" /></a>&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/vexlore"><img src="https://i.imgur.com/llVAsBO.png" alt="GeeksforGeeks" width="32" /></a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/vexlore"><img src="https://i.imgur.com/DMEmXlI.png" alt="CodeChef" width="28" /></a>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,typescript,tailwind,supabase,firebase,vercel,python,cpp,c,git,github,linux,vscode&theme=dark&perline=8" alt="Tech stack" />
 </p>
 
-<br/>
+<table align="center">
+  <tr>
+    <td align="center" width="160"><b>Mobile</b></td>
+    <td>Flutter · Dart — Android · iOS · Web · Desktop</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web</b></td>
+    <td>Next.js · React · TypeScript · Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend / BaaS</b></td>
+    <td>Supabase · Firebase · Vercel</td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI & Vision</b></td>
+    <td>Python · YOLO · OpenCV · Local LLMs · Agentic AI</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Systems</b></td>
+    <td>C · C++ · Linux</td>
+  </tr>
+</table>
 
-## 🧠 Competitive Programming Profiles
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### MU CSE Fest
+**[mucsefest.com](https://mucsefest.com)** · `Live`
+
+Official website for **MU CSE Fest** — designed built and deployed end-to-end.
+
+- Full frontend + backend integration
+- Next.js App Router + TypeScript
+- Firebase & Supabase integrated
+- Deployed on Vercel
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+*Code private — available on request*
+
+</td>
+<td width="50%" valign="top">
+
+### CoverPaper — Flutter App
+`Temporarily Paused` · *Vercel free-tier limit*
+
+A Flutter wallpaper app — clean UI fast cross-platform.
+
+- Flutter for Web · Android · iOS
+- Cross-platform shared codebase
+- Actively improving UI + features
+- Demo paused — will resume when limit resets
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+*Code private — available on request*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Pipely — Web App
+`Temporarily Paused` · *Vercel free-tier limit*
+
+A full-stack web product I designed and built — paused temporarily while I focus on other builds.
+
+- Full-stack web app
+- Deployed on Vercel
+- Public demo paused
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+*Code private — available on request*
+
+</td>
+<td width="50%" valign="top">
+
+### Robotics Vision — YOLO
+**Python · YOLO · Computer Vision**
+
+A robotics-focused CV project — real-time human detection using YOLO models.
+
+- YOLO-based real-time detection
+- Python + OpenCV inference
+- Built for robotics & autonomous systems
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+*Code private — available on request*
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### Local LLM + Agentic AI Projects
+**Local LLMs · Agentic AI · Automation**
+
+Every project I build now includes locally running LLM features — private by design offline-first agentic where it makes sense.
+
+- Local LLM-powered app features (offline inference)
+- Agentic AI workflows for automation
+- Integrated into Flutter & Next.js projects
+- Privacy-first — no cloud dependency
+
+![Local LLMs](https://img.shields.io/badge/Local_LLMs-412991?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-008080?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Currently Working On
+
+- **CoverPaper** — expanding features; demo paused till Vercel limit resets
+- Adding **local LLM features** into new Flutter/Next.js projects
+- Improving **YOLO-based robotics vision** accuracy & speed
+- More **agentic AI workflows** for personal automation
+- **Pipely** — paused, will resume when bandwidth allows
+
+---
+
+## Competitive Programming
+
+I solve algorithmic problems in **C++** on **Codeforces** — sharpening DSA clean code and problem-solving under pressure.
+
+<p align="center">
+  <a href="https://codeforces.com/profile/vexlore-code">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
+</p>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vexlore-code&theme=github_dark" alt="Profile Details"/>
+      </td>
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vexlore-code&theme=github_dark" alt="Stats"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vexlore-code&theme=github_dark" alt="Repos per Language"/>
+      </td>
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vexlore-code&theme=github_dark" alt="Most Commit Language"/>
+      </td>
+    </tr>
+  </table>
 
-### 🔹 Codeforces
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=vexlore)](https://codeforces.com/profile/vexlore)
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=vexlore)
+  <br/>
 
-### 🔺 AtCoder
-[![AtCoder Stats](https://atcoder-readme-stats.vercel.app/stats/vexlore?show_history=5&width=450)](https://github.com/vexlore/atcoder-readme-stats)
-![AtCoder Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fvexlore)
-
-### 🔸 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/vexlore?theme=wtf&ext=heatmap)
-![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvexlore&logo=leetcode&logoColor=yellow)
-
+  <img src="https://streak-stats.demolab.com?user=vexlore-code&theme=dark&hide_border=true&background=0D1117&ring=1F8ACB&fire=1F8ACB&currStreakLabel=1F8ACB&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" width="80%" />
 </div>
 
-<br/>
+---
 
-## 🚧 Featured Projects
+## Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/vexlore-code/REPO_ONE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vexlore-code&repo=REPO_ONE&theme=dark&hide_border=true&bg_color=00000000&title_color=00ADB5&icon_color=00ADB5&text_color=C9D1D9" alt="Repo Card 1"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vexlore-code&theme=github-dark&hide_border=true&bg_color=0D1117&color=1F8ACB&line=1F8ACB&point=FFFFFF&area=true&area_color=1F8ACB" alt="Activity Graph" width="100%"/>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/vexlore-code">
+    <img src="https://img.shields.io/badge/GitHub-vexlore--code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/vexlore-code/REPO_TWO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vexlore-code&repo=REPO_TWO&theme=dark&hide_border=true&bg_color=00000000&title_color=00ADB5&icon_color=00ADB5&text_color=C9D1D9" alt="Repo Card 2"/>
+  <a href="mailto:jubiofficial.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://codeforces.com/profile/vexlore-code">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/vexlore-code/REPO_THREE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vexlore-code&repo=REPO_THREE&theme=dark&hide_border=true&bg_color=00000000&title_color=00ADB5&icon_color=00ADB5&text_color=C9D1D9" alt="Repo Card 3"/>
-  </a>
-</p>
 
-> 🔧 **Action needed:** these cards are live and dynamic (stars/forks/language pull automatically), but `REPO_ONE`, `REPO_TWO`, `REPO_THREE` are placeholders. Replace each `repo=` value with your real repository names and they'll render instantly — no rebuilding needed.
-
-<br/>
-
-## 📋 GitHub Summary Cards
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vexlore-code&theme=github_dark" alt="Profile Details"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vexlore-code&theme=github_dark" alt="Stats"/>
-</p>
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vexlore-code&theme=github_dark" alt="Repos per Language"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vexlore-code&theme=github_dark" alt="Most Commit Language"/>
-</p>
-<p align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vexlore-code&theme=github_dark&utcOffset=6" alt="Productive Time"/>
-</p>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexlore-code&layout=compact&hide_border=true&bg_color=00000000&title_color=00ADB5&text_color=C9D1D9&langs_count=8&card_width=400" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vexlore-code&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ADB5&icon_color=00ADB5&text_color=C9D1D9&card_width=400" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vexlore-code&hide_border=true&background=00000000&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" width="700" />
-</p>
-
-<br/>
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vexlore-code&bg_color=00000000&color=00ADB5&line=00ADB5&point=FFFFFF&area=true&area_color=00ADB5&hide_border=true&title=GitHub%20Activity" alt="Activity Graph" width="100%"/>
-</p>
-
-<br/>
-
-## 🗿 3D Contribution Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vexlore-code/vexlore-code/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%"/>
-</p>
-
-> 🔧 **Action needed:** this renders once the bonus workflow (`profile-3d-contrib.yml`, shared alongside this README) is added to your repo and runs for the first time — it generates the SVG and commits it automatically every day.
-
-<br/>
-
-## 🎯 Skill Proficiency
-
-<p align="center">
-
-`Flutter / Dart`   ████████████████████░░░░  85%
-`C++`               ███████████████████░░░░░  80%
-`MERN Stack`        ████████████████░░░░░░░░  70%
-`WordPress / PHP`   ██████████████░░░░░░░░░░  60%
-`Linux / Bash`      ██████████████████░░░░░░  75%
-
-</p>
-
-<br/>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=vexlore-code&theme=onedark&no-frame=true&margin-w=10&row=1&column=7" alt="trophies" />
-</p>
-
-<br/>
-
-## ⌨️ Coding Activity (WakaTime)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> 🔧 **Action needed:** this section auto-fills with your weekly coding-time breakdown once you connect a [WakaTime](https://wakatime.com) account and add the bonus workflow (`waka-readme.yml`) below — it edits only the text between the markers above, so the rest of this file stays untouched.
-
-<br/>
-
-## 🗨️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote" />
-</p>
-
-<br/>
-
-## ☕ Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/vexlore"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy me a coffee" /></a>
-  <a href="https://ko-fi.com/vexlore"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="ko-fi" /></a>
-  <a href="https://github.com/sponsors/vexlore-code"><img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="github sponsors" /></a>
-</p>
-
-<p align="center"><em>Update the links above with your real handles if these placeholders don't match yet.</em></p>
-
-<br/>
-
-## 🖥️ Terminal Preview
-
-```bash
-$ whoami
-jubayer-hasan-munna (vexlore)
-
-$ role --current
-Flutter Developer | MERN Stack Developer | WordPress Developer | C++ Engineer
-
-$ skills --list
-Flutter, Dart, MariaDB, Express.js, React, Node.js, WordPress, PHP, MySQL,
-C, C++, Python, Go, Linux, Bash, Docker, Git
-
-$ status --check
-✔ open_to_work     : true
-✔ open_source      : true
-✔ freelance        : available
-✔ caffeine_level   : critical
-
-$ contact --email
-jubiofficial.dev@gmail.com
-
-$ echo "thanks for stopping by!"
-thanks for stopping by!
-```
-
-<br/>
-
-## 📄 License
-
-<p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="MIT License" /></a>
-</p>
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00ADB5&center=true&width=700&lines=Flutter+Dev+%7C+MERN+Stack+%7C+WordPress+Dev;C%2B%2B+Craftsman+%7C+Linux+Lover" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1F8ACB&center=true&width=700&lines=Building+Flutter+%7C+Next.js+%7C+Local+LLM;Shipping+real+products%2C+not+tutorials;Open+to+internship+%26+freelance" />
 
-**✨ Keep building. Keep learning. Keep sharing. ✨**
+**Building real things. Learning every day.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0b0f14,100:1F8ACB" width="100%"/>
 
 </div>
