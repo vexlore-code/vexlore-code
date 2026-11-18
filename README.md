@@ -279,7 +279,7 @@ I solve algorithmic problems in **C++** on **Codeforces** — sharpening DSA cle
   <a href="mailto:jubiofficial.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://codeforces.com/profile/vexlore-code">
+  <a href="https://codeforces.com/profile/vexlore">
     <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
