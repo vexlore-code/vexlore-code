@@ -13,11 +13,11 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=1F8ACB&center=true&vCenter=true&width=780&lines=Flutter+Developer+%7C+Cross-Platform+Apps;Next.js+%2B+TypeScript+%7C+Full-Stack+Web;YOLO+%2B+Python+%7C+Robotics+Vision;Local+LLM+%7C+Agentic+AI+Workflows;C%2B%2B+%7C+Competitive+Programmer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=1F8ACB&center=true&vCenter=true&width=780&lines=Flutter+Developer+%7C+Cross-Platform+Apps;Next.js+%2B+TypeScript+%7C+Full-Stack+Web;YOLO+%2B+Python+%7C+Robotics+Vision;Local+LLM+%7C+Agentic+AI+Workflows;ESP32+%2B+IoT+%7C+Embedded+Systems" alt="Typing SVG" />
 
 <br/>
 
-> **Notice:** Most of my repositories are private due to client work and proprietary project code. If you'd like a code walkthrough or to see my private work, feel free to reach out!
+> **Notice:** Most of my repositories are private due to client work and proprietary project code. The source code for these projects is strictly confidential and not available for public viewing. 
 
 </div>
 
@@ -34,6 +34,7 @@ I'm **Munna** — a **CSE student** at **Metropolitan University, Sylhet**, buil
 Currently building:
 - **MU CSE Fest** — official site live and shipped end-to-end
 - **CoverPaper** — Flutter wallpaper app *(demo paused · Vercel limit)*
+- **Ride IQ** — ESP32-based smart vehicle tracking & passenger counting (IoT)
 - **Robotics vision** — YOLO-based human detection
 - **Local LLM agentic workflows** — offline AI experiments
 
@@ -46,8 +47,8 @@ Currently building:
 | :--- | :--- |
 | **Studying** | CSE · Metropolitan University |
 | **Shipped** | [mucsefest.com](https://mucsefest.com) `Live` |
-| **Building** | CoverPaper *(paused demo)* |
-| **Exploring** | YOLO · Local LLM · Agentic AI |
+| **Building** | CoverPaper · Pipely *(paused demo)* |
+| **Research** | ESP32 · IoT · CV · Local LLM |
 | **Contact** | [jubiofficial.dev@gmail.com](mailto:jubiofficial.dev@gmail.com) |
 
 </td>
@@ -59,17 +60,13 @@ Currently building:
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,typescript,tailwind,supabase,firebase,vercel,python,cpp,c,git,github,linux,vscode&theme=dark&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,typescript,tailwind,supabase,firebase,vercel,python,cpp,c,arduino,raspberrypi,git,github,linux,vscode&theme=dark&perline=9" alt="Tech stack" />
 </p>
 
 <table align="center">
   <tr>
-    <td align="center" width="160"><b>Mobile</b></td>
-    <td>Flutter · Dart — Android · iOS · Web · Desktop</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Web</b></td>
-    <td>Next.js · React · TypeScript · Tailwind CSS</td>
+    <td align="center" width="160"><b>Mobile & Web</b></td>
+    <td>Flutter · Dart · Next.js · React · TypeScript · Tailwind</td>
   </tr>
   <tr>
     <td align="center"><b>Backend / BaaS</b></td>
@@ -80,8 +77,8 @@ Currently building:
     <td>Python · YOLO · OpenCV · Local LLMs · Agentic AI</td>
   </tr>
   <tr>
-    <td align="center"><b>Systems</b></td>
-    <td>C · C++ · Linux</td>
+    <td align="center"><b>Systems & IoT</b></td>
+    <td>C · C++ · ESP32 · Arduino · Linux</td>
   </tr>
 </table>
 
@@ -108,9 +105,31 @@ Official website for **MU CSE Fest** — designed built and deployed end-to-end.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-*Code private — available on request*
+*Private Repository · Confidential*
 
 </td>
+<td width="50%" valign="top">
+
+### Ride IQ — Smart Vehicle Tracking (IoT)
+**ESP32 · IR Sensors · Firebase**
+
+A low-cost cyber-physical system for **real-time vehicle tracking and passenger counting**. Applicable to buses, micro-buses, and fleet vehicles.
+
+- Dual-IR sequential gate for directional counting
+- ESP32 firmware with FreeRTOS task partitioning
+- Firebase Realtime Database telemetry
+- Includes a prospective validation protocol & error metrics
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![IoT](https://img.shields.io/badge/IoT-Hardware-1F8ACB?style=flat-square)
+
+*Private Repository · Confidential*
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### CoverPaper — Flutter App
@@ -127,28 +146,30 @@ A Flutter wallpaper app — clean UI fast cross-platform.
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-*Code private — available on request*
+*Private Repository · Confidential*
+
+</td>
+<td width="50%" valign="top">
+
+### Pipely — Flutter App
+`Temporarily Paused` · *Vercel free-tier limit*
+
+A cross-platform Flutter application designed and built — paused temporarily while I focus on other builds.
+
+- Flutter for Web · Android · iOS
+- Full-stack app integration
+- Deployed on Vercel
+- Public demo paused
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+*Private Repository · Confidential*
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### Pipely — Web App
-`Temporarily Paused` · *Vercel free-tier limit*
-
-A full-stack web product I designed and built — paused temporarily while I focus on other builds.
-
-- Full-stack web app
-- Deployed on Vercel
-- Public demo paused
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-*Code private — available on request*
-
-</td>
 <td width="50%" valign="top">
 
 ### Robotics Vision — YOLO
@@ -164,12 +185,10 @@ A robotics-focused CV project — real-time human detection using YOLO models.
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-*Code private — available on request*
+*Private Repository · Confidential*
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### Local LLM + Agentic AI Projects
 **Local LLMs · Agentic AI · Automation**
@@ -184,6 +203,8 @@ Every project I build now includes locally running LLM features — private by d
 ![Local LLMs](https://img.shields.io/badge/Local_LLMs-412991?style=flat-square)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-008080?style=flat-square)
 
+*Private Repository · Confidential*
+
 </td>
 </tr>
 </table>
@@ -193,10 +214,10 @@ Every project I build now includes locally running LLM features — private by d
 ## Currently Working On
 
 - **CoverPaper** — expanding features; demo paused till Vercel limit resets
-- Adding **local LLM features** into new Flutter/Next.js projects
-- Improving **YOLO-based robotics vision** accuracy & speed
-- More **agentic AI workflows** for personal automation
 - **Pipely** — paused, will resume when bandwidth allows
+- Adding **local LLM features** into new Flutter/Next.js projects
+- **Ride IQ** — preparing publication-ready validation data for the IR counting protocol
+- Improving **YOLO-based robotics vision** accuracy & speed
 
 ---
 
@@ -267,7 +288,7 @@ I solve algorithmic problems in **C++** on **Codeforces** — sharpening DSA cle
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1F8ACB&center=true&width=700&lines=Building+Flutter+%7C+Next.js+%7C+Local+LLM;Shipping+real+products%2C+not+tutorials;Open+to+internship+%26+freelance" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1F8ACB&center=true&width=700&lines=Building+Flutter+%7C+Next.js+%7C+IoT+%7C+Local+LLM;Shipping+real+products%2C+not+tutorials;Open+to+internship+%26+freelance" />
 
 **Building real things. Learning every day.**
 
